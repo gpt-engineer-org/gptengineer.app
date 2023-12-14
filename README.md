@@ -22,7 +22,7 @@ Our mission is to unlock human creativity.
 
 Approach: Reduce the barriers to build
 
-## How does [gpt-engineer](https://github.com/AntonOsika/gpt-engineer) and [gptengineer.app](https://gptengineer.app) relate?
+## How do [gpt-engineer](https://github.com/AntonOsika/gpt-engineer) and [gptengineer.app](https://gptengineer.app) relate?
 
 The team behind gptengineer.app sprung out of the open source code generation community. We are committed to giving back to it.
 
