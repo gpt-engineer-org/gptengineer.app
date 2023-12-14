@@ -38,10 +38,12 @@ The GitHub organization gpt-engineer-org is created by the original gpt-engineer
 
 The open source project gpt-engineer is governed by a board that consists of its code contributors and is by default separate from gptengineer.app.
 
+## Join us?
+Email anton.osika@gmail.com if you are interested in building the future of software development.
 
 ## What's next
 
 We are soon:
 - Adding full stack capabilities
-    - Database read/write, auth, LLM APIs... We will prioritise according to feature requests in this repo.
+    - (deatabase read/write, auth, LLM APIs... We will prioritise according to feature requests in this repo)
 - Announcing the team and company behind the product gptengineer.app
