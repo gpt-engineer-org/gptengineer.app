@@ -1,4 +1,4 @@
-    # gptengineer.app
+# gptengineer.app
 
 This is an issues repo for: **[gptengineer.app](https://gptengineer.app)**
 
