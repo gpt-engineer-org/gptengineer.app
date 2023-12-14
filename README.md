@@ -36,7 +36,7 @@ Part of the revenue from gptengineer.app will be funding a full time role as wel
 
 The GitHub organization gpt-engineer-org is created by the original gpt-engineer creator Anton Osika, where gpt-engineer community related projects are collected.
 
-The open source project gpt-engineer is governed by a board that consists of code contributors and is by default separate from gptengineer.app.
+The open source project gpt-engineer is governed by a board that consists of its code contributors and is by default separate from gptengineer.app.
 
 
 ## What's next
