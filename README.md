@@ -41,6 +41,7 @@ The open source project gpt-engineer is governed by a board that consists of its
 ## What's next
 
 We are soon:
+- Making it easier to edit text and upload images WYSIWYG-style
 - Adding full stack capabilities
-    - (deatabase read/write, auth, LLM APIs... We will prioritise according to feature requests in this repo)
+    - (database read/write, auth, LLM APIs... We will prioritise according to feature requests in this repo)
 - Announcing the team and company behind the product gptengineer.app
