@@ -42,5 +42,6 @@ The open source project gpt-engineer is governed by a board that consists of its
 ## What's next
 
 We are soon:
-- Adding full stack capabilities (database read/write, auth, LLM APIs – file your own feature requests)
-- Announcing the full team and company behind the product gptengineer.app
+- Adding full stack capabilities
+    - Database read/write, auth, LLM APIs... We will prioritise according to feature requests in this repo.
+- Announcing the team and company behind the product gptengineer.app
