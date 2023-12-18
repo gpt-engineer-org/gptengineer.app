@@ -10,7 +10,7 @@ Are you looking for source code? gptengineer.app is built on and contributes bac
 
 ## What
 
-[**gptengineer.app**](https://gptengineer.app) enables anyone to create arbitrarily customizable websites with plain english like so:
+[**gptengineer.app**](https://gptengineer.app) enables anyone to create and customize interactive websites with plain english like so:
 
 - Say what you want to build
 - Let the AI build it and inspect the result
