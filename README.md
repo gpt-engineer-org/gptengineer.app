@@ -8,7 +8,7 @@ This is an issues repo for **[gptengineer.app](https://gptengineer.app)**. Are y
 
 ## What
 
-[**gptengineer.app**](https://gptengineer.app) enables anyone to create and customize interactive websites with plain english like so:
+[**gptengineer.app**](https://gptengineer.app) enables anyone to create and customize interactive websites with plain english. Flow:
 
 - Say what you want to build
 - Let the AI build it and inspect the result
