@@ -34,7 +34,7 @@ of [**gpt-engineer**](https://github.com/AntonOsika/gpt-engineer) inspires us.
 
 Part of the revenue from gptengineer.app will be funding a full time role as well as infrastructure, focused on building and maintaining open source tools for builders in the codegen community.
 
-The GitHub organization gpt-engineer-org is created by the original gpt-engineer creator Anton Osika, where gpt-engineer community related projects are collected.
+The GitHub organization gpt-engineer-org is created by the gpt-engineer creator Anton Osika, where gpt-engineer community related projects are collected.
 
 The open source project gpt-engineer is governed by a board that consists of its code contributors and is by default separate from gptengineer.app.
 
