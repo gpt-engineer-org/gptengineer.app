@@ -15,7 +15,7 @@ This is an issues repo for **[gptengineer.app](https://gptengineer.app)**. Are y
 - Iteratively ask for edits/improvements
 - One-click deploy
 
-On top of this flow, all code is managed by git, which means us human devs can take over and implement requests where the AI system falls short.
+On top of this flow, all code is managed by git, so that us human devs can take over and implement requests where the AI system currently falls short.
 
 ## Why
 Our mission is to unlock human creativity.
