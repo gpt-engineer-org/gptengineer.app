@@ -1,6 +1,6 @@
 # gptengineer.app
 
-Goal: create the best experience for rapid prototyping of web apps
+Goal: create the best experience for rapid prototyping of web apps.
 
 Feedback in terms of bug reports and feature requests is super helpful in this. By reacting to tickets that matter most to you, you help us prioritize.
  
