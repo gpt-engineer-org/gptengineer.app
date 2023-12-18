@@ -1,9 +1,10 @@
 # gptengineer.app
 
-Our goal is to create the best experience for rapid prototyping of web apps. Feedback in terms of bug reports and feature requests is super helpful in this. By reacting to tickets that matter most to you, you help us prioritize.
+**Goal**: create the best experience for rapid prototyping of web apps
 
 This is an issues repo for: **[gptengineer.app](https://gptengineer.app)**
 
+Feedback in terms of bug reports and feature requests is super helpful in this. By reacting to tickets that matter most to you, you help us prioritize.
 
 Are you looking for source code? gptengineer.app is built on and contributes back to the open source project [**gpt-engineer**](https://github.com/AntonOsika/gpt-engineer). The source code of the UI is not publicly available as of 2023.
 
