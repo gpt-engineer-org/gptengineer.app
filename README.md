@@ -18,9 +18,7 @@ This is an issues repo for **[gptengineer.app](https://gptengineer.app)**. Are y
 On top of this flow, all code is managed by git, so that us human devs can take over and implement requests where the AI system currently falls short.
 
 ## Why
-Our mission is to unlock human creativity.
-
-Approach: Reduce the barriers to build
+Our mission is to unlock human creativity by reducing the barriers to build
 
 ## How do [gpt-engineer](https://github.com/AntonOsika/gpt-engineer) and [gptengineer.app](https://gptengineer.app) relate?
 
