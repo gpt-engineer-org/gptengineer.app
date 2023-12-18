@@ -1,6 +1,6 @@
 # gptengineer.app
 
-**Goal**: create the best experience for rapid prototyping of web apps
+Goal: create the best experience for rapid prototyping of web apps
 
 This is an issues repo for: **[gptengineer.app](https://gptengineer.app)**
 
