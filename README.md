@@ -1,4 +1,4 @@
-# gptengineer.app
+# [**gptengineer.app**](https://gptengineer.app)
 
 Goal: create the best experience for rapid prototyping of web apps
 
