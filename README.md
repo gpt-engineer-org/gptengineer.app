@@ -20,7 +20,9 @@ This is an **issues repo** for <a href="https://gptengineer.app" target="_blank"
 On top of this flow, all code is managed by git, so that us human devs can take over and implement requests where the AI system currently falls short.
 
 ## Why
-Our mission is to unlock human creativity by reducing the barriers to build
+Our mission is to unlock human creativity by reducing the barriers to build.
+
+We want to enable anyone to build software products using natural language.
 
 ## How do [gpt-engineer](https://github.com/AntonOsika/gpt-engineer) and [gptengineer.app](https://gptengineer.app) relate?
 
@@ -30,7 +32,7 @@ Specifically, the mission
 
 > **Maintain tools and infrastructure that support codegen and code agent builders**.
 
-of [gpt-engineer](https://github.com/AntonOsika/gpt-engineer) is something we will contribute to.
+of [gpt-engineer](https://github.com/AntonOsika/gpt-engineer) is something we gptengineer.app contribute to.
 
 Part of the revenue from gptengineer.app will be funding a full time role as well as infrastructure, focused on building and maintaining open source tools for builders in the codegen community.
 
