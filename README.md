@@ -30,18 +30,18 @@ Specifically, the mission
 
 > **Maintain tools and infrastructure that support codegen and code agent builders**.
 
-of [gpt-engineer](https://github.com/AntonOsika/gpt-engineer) is something we gptengineer.app contribute to.
+of [gpt-engineer](https://github.com/AntonOsika/gpt-engineer) is something [gptengineer.app](https://gptengineer.app) will contribute to.
 
-Part of the revenue from gptengineer.app will be funding a full time role as well as infrastructure, focused on building and maintaining open source tools for builders in the codegen community.
+Part of the revenue from gptengineer.app will be funding a full time role and infrastructure, focused on building and maintaining open source tools for builders in the codegen community.
 
 The GitHub organization gpt-engineer-org is created by the gpt-engineer creator Anton Osika, where gpt-engineer community related projects are collected.
 
-The open source project gpt-engineer is governed by a board that consists of its code contributors and is by default separate from gptengineer.app.
+The open source project gpt-engineer is governed by a board that consists of its code contributors. Any contributor to [gpt-engineer](https://github.com/AntonOsika/gpt-engineer) can become a board member.
 
 ## What's next
 
 We are soon:
-- Making it easier to edit text and upload images WYSIWYG-style
+- Making it easy to edit text and upload images WYSIWYG-style
 - Adding full stack capabilities
     - (database read/write, auth, LLM APIs... We will prioritise according to feature requests in this repo)
 - Announcing the team and company behind the product gptengineer.app
