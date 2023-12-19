@@ -30,7 +30,7 @@ Specifically, the mission
 
 > **Maintain tools and infrastructure that support codegen and code agent builders**.
 
-of [gpt-engineer](https://github.com/AntonOsika/gpt-engineer) remains.
+of [gpt-engineer](https://github.com/AntonOsika/gpt-engineer) is something we will contribute to.
 
 Part of the revenue from gptengineer.app will be funding a full time role as well as infrastructure, focused on building and maintaining open source tools for builders in the codegen community.
 
