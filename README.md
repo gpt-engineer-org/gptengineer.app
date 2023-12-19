@@ -1,6 +1,6 @@
 # gptengineer.app
 
-Goal: create the best experience for rapid prototyping of web apps.
+Goal: Create the best experience for rapid prototyping of web apps.
 
 Feedback in terms of bug reports and feature requests is super helpful in this. By reacting to tickets that matter most to you, you help us prioritize.
  
@@ -21,8 +21,6 @@ On top of this flow, all code is managed by git, so that us human devs can take 
 
 ## Why
 Our mission is to unlock human creativity by reducing the barriers to build.
-
-We want to enable anyone to build software products using natural language.
 
 ## How do [gpt-engineer](https://github.com/AntonOsika/gpt-engineer) and [gptengineer.app](https://gptengineer.app) relate?
 
