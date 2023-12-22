@@ -8,7 +8,7 @@ Feel free to react to tickets that matter most to you to help us prioritize.
 
 ## What
 
-[**gptengineer.app**](https://gptengineer.app) enables anyone to:
+[**gptengineer.app**](https://run.gptengineer.app) enables anyone to:
 
 - Specify what to build
 - AI creates a website and display it
@@ -17,7 +17,7 @@ Feel free to react to tickets that matter most to you to help us prioritize.
 
 If you have too many ideas and want to have more products – you have come to the right place.
 
-The code is not here on github, but on [gptengineer.app](https://gptengineer.app).
+The code is not here on github, but on [gptengineer.app](https://run.gptengineer.app).
 
 ## Relationship with gpt-engineer
 gptengineer.app sprung out of the open source code project [gpt-engineer](https://github.com/AntonOsika/gpt-engineer). The projects are still connected:
