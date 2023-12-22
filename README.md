@@ -1,6 +1,6 @@
 # gptengineer.app
 
-This is an issues repo for: **[gptengineer.app](https://gptengineer.app)**
+This is an issues repo for: **[gptengineer.app](https://run.gptengineer.app)**
 
 Our goal is to create the best experience for rapid prototyping. Feedback in the shape of bugs or feature requests is super helpful.
 
