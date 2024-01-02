@@ -29,8 +29,8 @@ The GitHub organisation gpt-engineer-org is created by the original gpt-engineer
 
 ## What's next
 
-We are soon:
-- Making it easy to edit text and upload images WYSIWYG-style
+Roadmap includes:
+- Auto-testing, debugging and public evaluation of error rates
 - Adding full stack capabilities
     - (database read/write, auth, LLM APIs... We will prioritise according to feature requests in this repo)
 - Announcing the team and company behind the product gptengineer.app
