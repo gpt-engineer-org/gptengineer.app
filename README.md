@@ -1,5 +1,8 @@
 # gptengineer.app
 
+
+[![Made by Lovable Badge](https://img.shields.io/badge/Made%20by-Lovable%20%E2%9D%A4%EF%B8%8F-white?style=flat-square)](https://lovable.dev)
+
 This is an issues repo for: **[gptengineer.app](https://gptengineer.app)**
 
 Our goal is to create the best experience for rapid prototyping. Feedback in the shape of bugs or feature requests is super helpful.
